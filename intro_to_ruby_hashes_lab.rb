@@ -38,7 +38,7 @@ def monopoly
 	   #   }
 	    # }
 	   }
-	  }
+	#  }
 
 end
 
